@@ -59,8 +59,16 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
+#define SER_Pin GPIO_PIN_0
+#define SER_GPIO_Port GPIOA
+#define SRCLK_Pin GPIO_PIN_1
+#define SRCLK_GPIO_Port GPIOA
+#define RCLK_Pin GPIO_PIN_2
+#define RCLK_GPIO_Port GPIOA
 #define PWM_FAN_Pin GPIO_PIN_4
 #define PWM_FAN_GPIO_Port GPIOA
+#define BTN1_Pin GPIO_PIN_5
+#define BTN1_GPIO_Port GPIOA
 #define ENC_A_Pin GPIO_PIN_6
 #define ENC_A_GPIO_Port GPIOA
 #define ENC_B_Pin GPIO_PIN_7
