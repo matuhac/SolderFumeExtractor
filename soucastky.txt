@@ -1,1 +1,4 @@
 BUCK TPS561246DRLR nebo TPS562201DDCR
+
+fan connector
+https://cz.mouser.com/ProductDetail/Molex/47053-1000?qs=ph4zPCVRuvqoDX7hrEhxNA%3D%3D&mgh=1&utm_id=20199859582&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gad_campaignid=20199863194&gbraid=0AAAAADn_wf20pHoxa_7iZc6dRDZgrtnHk&gclid=CjwKCAjw2rrQBhBuEiwAarLWHQiO4kCDMJESUP97-dJQM9qEx28JVIJfg1USGRPI039mWlwn7XMBdxoC-GEQAvD_BwE

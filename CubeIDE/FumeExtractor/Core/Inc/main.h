@@ -65,16 +65,26 @@ void Error_Handler(void);
 #define SRCLK_GPIO_Port GPIOA
 #define RCLK_Pin GPIO_PIN_2
 #define RCLK_GPIO_Port GPIOA
-#define PWM_FAN_Pin GPIO_PIN_4
-#define PWM_FAN_GPIO_Port GPIOA
 #define BTN1_Pin GPIO_PIN_5
 #define BTN1_GPIO_Port GPIOA
 #define ENC_A_Pin GPIO_PIN_6
 #define ENC_A_GPIO_Port GPIOA
 #define ENC_B_Pin GPIO_PIN_7
 #define ENC_B_GPIO_Port GPIOA
+#define PWM_FAN_Pin GPIO_PIN_1
+#define PWM_FAN_GPIO_Port GPIOB
 #define TACHO_Pin GPIO_PIN_8
 #define TACHO_GPIO_Port GPIOA
+#define LED1_Pin GPIO_PIN_3
+#define LED1_GPIO_Port GPIOB
+#define LED2_Pin GPIO_PIN_4
+#define LED2_GPIO_Port GPIOB
+#define LED3_Pin GPIO_PIN_5
+#define LED3_GPIO_Port GPIOB
+#define LED4_Pin GPIO_PIN_6
+#define LED4_GPIO_Port GPIOB
+#define LED5_Pin GPIO_PIN_7
+#define LED5_GPIO_Port GPIOB
 
 /* USER CODE BEGIN Private defines */
 
